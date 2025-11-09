@@ -44,6 +44,7 @@ Steps:
 	 - [sifi](/writeups/web/EPT%20Cinemas/sifi)  
  - **[Secretadmin](/writeups/web/Secretadmin)**
  - **[shop-8](/writeups/web/shop-8)**
+	 - [nørds](/writeups/web/shop-8/nørds)  
 	 - [sifi](/writeups/web/shop-8/sifi)  
  - **[Sigma2KQL Converter](/writeups/web/Sigma2KQL%20Converter)**
 	 - [Iku-toppene](/writeups/web/Sigma2KQL%20Converter/Iku-toppene)  
