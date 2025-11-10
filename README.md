@@ -60,6 +60,7 @@ Steps:
 	 - [sifi](/writeups/web/Spin-For-Flag/sifi)  
  - **[breadcrumbs](/writeups/web/breadcrumbs)**
 	 - [B00S](/writeups/web/breadcrumbs/B00S)  
+	 - [bwnfools](/writeups/web/breadcrumbs/bwnfools)  
 ### crypto
  - **[Hyperactive](/writeups/crypto/Hyperactive)**
  - **[Make-a-String](/writeups/crypto/Make-a-String)**
@@ -75,6 +76,7 @@ Steps:
 ### boot2root
  - **[cve-safari](/writeups/boot2root/cve-safari)**
  - **[PotatoHead (user)](/writeups/boot2root/PotatoHead%20(user))**
+	 - [bwnfools](/writeups/boot2root/PotatoHead%20(user)/bwnfools)  
 	 - [RumbleInTheJungle](/writeups/boot2root/PotatoHead%20(user)/RumbleInTheJungle)  
  - **[FOMO (root)](/writeups/boot2root/FOMO%20(root))**
  - **[FOMO (user)](/writeups/boot2root/FOMO%20(user))**
@@ -108,6 +110,7 @@ Steps:
 	 - [enso](/writeups/reversing/FlagChecker/enso)  
  - **[EPTBoy Strikes Back](/writeups/reversing/EPTBoy%20Strikes%20Back)**
  - **[FlagPrinter](/writeups/reversing/FlagPrinter)**
+	 - [bwnfools](/writeups/reversing/FlagPrinter/bwnfools)  
  - **[EPTBoy](/writeups/reversing/EPTBoy)**
  - **[Dark Side of the Shader](/writeups/reversing/Dark%20Side%20of%20the%20Shader)**
 ### onsite
@@ -120,9 +123,11 @@ Steps:
 ### forensics
  - **[Home Intrusion 2](/writeups/forensics/Home%20Intrusion%202)**
  - **[Insecure Exfil](/writeups/forensics/Insecure%20Exfil)**
+	 - [bwnfools](/writeups/forensics/Insecure%20Exfil/bwnfools)  
  - **[Censoring](/writeups/forensics/Censoring)**
 	 - [abyss](/writeups/forensics/Censoring/abyss)  
  - **[Insider Threat](/writeups/forensics/Insider%20Threat)**
+	 - [bwnfools](/writeups/forensics/Insider%20Threat/bwnfools)  
  - **[Home Intrusion](/writeups/forensics/Home%20Intrusion)**
 ### pwn
  - **[Fiftiweb](/writeups/pwn/Fiftiweb)**
