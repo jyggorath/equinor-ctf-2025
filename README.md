@@ -34,6 +34,7 @@ Steps:
  - **[Hackermon](/writeups/web/Hackermon)**
 	 - [big](/writeups/web/Hackermon/big)  
  - **[LOUD CRM](/writeups/web/LOUD%20CRM)**
+	 - [big](/writeups/web/LOUD%20CRM/big)  
 	 - [B00S](/writeups/web/LOUD%20CRM/B00S)  
  - **[Yarr!](/writeups/web/Yarr!)**
  - **[Of CORS I Can Help!](/writeups/web/Of%20CORS%20I%20Can%20Help!)**
