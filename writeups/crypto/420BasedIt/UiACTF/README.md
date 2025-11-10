@@ -20,6 +20,13 @@ Anyway, what's cooking **chef**? #420BasedIt!
 
 The hint in the description “what’s cooking **chef**?” and “#420BasedIt”, made us think of **CyberChef** and **base encodings**.
 
-We figured “420BasedIt” might mean a combination of base encodings whose numbers add up to 420. After experimenting with different base layers in **CyberChef**, and letting **Magic** help out a bit, we found the right combination that decoded `EPT{I5_th3_Ch3f_1n_yet?}`, the total “base” value indeed summed to **420**. Nice.
-![420](image.png)
+We figured “420BasedIt” might mean a combination of base encodings whose numbers add up to 420. After experimenting with different base layers in **CyberChef**, and letting **Magic** help out a bit, we found the right combination that decoded `EPT{I5_th3_Ch3f_1n_yet?}`.
+
 ![CyberChef magic](image-1.png)
+
+So the flag was found with first using `From Base 92` -> `From Base 85` -> `From Base 85` -> `From Base 65` -> `From Base 62` -> `From Base 32`
+
+The total “base” value indeed summed to **420**. Nice.
+
+![420](image.png)
+
