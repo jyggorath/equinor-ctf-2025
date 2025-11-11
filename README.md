@@ -168,5 +168,5 @@ Steps:
  - **[Veal and Car's first baby (heap) is all grown up](/writeups/pwn/Veal%20and%20Car's%20first%20baby%20(heap)%20is%20all%20grown%20up)**
 	 - [EPT](/writeups/pwn/Veal%20and%20Car's%20first%20baby%20(heap)%20is%20all%20grown%20up/EPT)  
  - **[Encryptor](/writeups/pwn/Encryptor)**
- 	 - [Iku-toppene](/writeups/pwn/Encryptor/Iku-toppene)  
+	 - [Iku-toppene](/writeups/pwn/Encryptor/Iku-toppene)  
 
