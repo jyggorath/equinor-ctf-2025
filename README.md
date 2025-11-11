@@ -105,6 +105,7 @@ Steps:
 ### misc
  - **[EPT Flag Ship](/writeups/misc/EPT%20Flag%20Ship)**
  - **[Wolf3d](/writeups/misc/Wolf3d)**
+	 - [RumbleInTheJungle](/writeups/misc/Wolf3d/RumbleInTheJungle)  
  - **[Norges Aller Beste Hacker - Level 1](/writeups/misc/Norges%20Aller%20Beste%20Hacker%20-%20Level%201)**
 	 - [enso](/writeups/misc/Norges%20Aller%20Beste%20Hacker%20-%20Level%201/enso)  
  - **[Norges Aller Beste Hacker - Level 2](/writeups/misc/Norges%20Aller%20Beste%20Hacker%20-%20Level%202)**
